@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginWithFirebase</string>
+    <string name="facebook_app_id">395517281190912</string>
+    <string name="fb_login_protocol_scheme">fb395517281190912</string>
+    <string name="login_msg">You Have Successfully Logged In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="register">Register</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="or">Or</string>
+    <string name="already_a_user_try_loggin_in">Already a user? Try loggin in</string>
+    <string name="continue_with_email">CONTINUE WITH EMAIL</string>
+    <string name="lgIn">Login</string>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947945568760",
+    "firebase_url": "https://loginwithfirebase-56875.firebaseio.com",
+    "project_id": "loginwithfirebase-56875",
+    "storage_bucket": "loginwithfirebase-56875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947945568760:android:f6f05d8fc9749bed",
+        "android_client_info": {
+          "package_name": "com.inc.sutiksh.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947945568760-4nsvo1sco8btr67ekts8ghd0561cbiea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaAKO0WE8wqAtgJhlPFXZT-lnJ7L4UxJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
